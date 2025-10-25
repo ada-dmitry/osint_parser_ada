@@ -1,0 +1,18 @@
+# Основные библиотеки для парсинга
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Работа с Excel
+openpyxl>=3.1.0
+pandas>=2.0.0
+
+# Selenium для динамического контента (опционально)
+selenium>=4.15.0
+
+# Утилиты
+python-dateutil>=2.8.0
+tqdm>=4.66.0
+
+# Логирование
+colorlog>=6.7.0
