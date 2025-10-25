@@ -38,7 +38,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone <repository-url>
+git clone https://github.com/ada-dmitry/osint_parser_ada.git
 cd osint_parser_ada
 
 # Создание виртуального окружения
